@@ -1,0 +1,6 @@
+Coinbase Valid Email Checker
+This tool will validate your email list which is associated with coinbase .com and which is not. This tool is using free http proxy and multithreading.
+Test on only for 5-7 email.
+
+If you wanna buy this tool contact me via telegram @koram65
+Time waster direct block.
